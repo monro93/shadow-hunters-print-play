@@ -12,6 +12,6 @@ Shadow hunters is a hidden roles game very funny for 4-8 players. This game has 
 If you are an advanced user and you want to edit the cards adding translations, custom cards or changing images/descriptions you can do that easily.
 1. Go to [CardConjurer.com](https://cardconjurer.com/creator)
 2. Take the card that you want to modify and upload the .json version
-3. It will ask you for a template, take it from [here](https://github.com/monro93/shadow-hunters-print-play/raw/main/Template/angular.cct)
+3. It will ask you for a template, take it from [here](https://github.com/monro93/shadow-hunters-print-play/raw/main/Extra/Template/angular.cct)
 4. Customize what you want and download your new card
 
